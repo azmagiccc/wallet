@@ -1,0 +1,7 @@
+创建钱包 create_wallet
+
+通过助记词导入 import_wallet_from_mnemonic
+
+通过私钥导入 import_wallet_from_privateKey
+
+发送 sendTx
